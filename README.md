@@ -74,7 +74,8 @@ This is a simplified model for educational purposes. Real-world outcomes depend 
 If you find this project helpful or insightful, consider supporting the developer:
 
 - **Cash App**: $beggarbillionaire
-- **Developer**: beggarbillionaire
+- **Developer**: Matthew Assaf
+- **eth wallet**: 0x7316FB87Ee1DEA2F41A0Da41E3948dda65948b16
 
 25% of all support received will be contributed to Anthropic, the creators of Claude.
 
