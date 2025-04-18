@@ -73,10 +73,19 @@ This is a simplified model for educational purposes. Real-world outcomes depend 
 
 If you find this project helpful or insightful, consider supporting the developer:
 
-- **Cash App**: $beggarbillionaire
 - **Developer**: Matthew Assaf
-- **eth wallet**: 0x7316FB87Ee1DEA2F41A0Da41E3948dda65948b16
-- **bc wallet**:  bc1qgggt0c9sn0sgy4nl0a6x8tz8sx8su0y23883gc
+ Bitcoin
+bc1qmgn5dgunpdsw2mdzp26nhhwtu9a2np65rwusda
+
+Zelle
+https://enroll.zellepay.com/qr-codes?data=ewogICJuYW1lIiA6ICJOQVRIQU4gQVNTQUYiLAogICJhY3Rpb24iIDogInBheW1lbnQiLAogICJ0b2tlbiIgOiAiKDkyNSkgNDUwLTk1NTAiCn0=
+
+PayPal
+https://www.paypal.com/qrcodes/p2pqrc/WFEUVNJPT35CY
+
+Cashapp 
+$beggarbillionaire
+ 
 
 25% of all support received will be contributed to Anthropic, the creators of Claude.
 
